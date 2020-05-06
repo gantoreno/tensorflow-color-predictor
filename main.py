@@ -11,7 +11,7 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 try:
-    print('Attemtting to load tensorflow model...')
+    print('Attemptting to load tensorflow model...')
 
     model = tf.keras.models.load_model('models/predictor')
 except:
