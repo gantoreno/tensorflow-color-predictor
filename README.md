@@ -9,7 +9,7 @@ You'll need to have `tensorflow`, `numpy`, and `pyfiglet` to get the project up 
 First, clone the repo:
 
 ```sh
-$ git clone https://github.com/hollandsgabe/tensorflow-color-predictor
+$ git clone https://github.com/gantoreno/tensorflow-color-predictor
 ```
 
 Move into the project directory, and run the `main.py` file with Python 3.x:
